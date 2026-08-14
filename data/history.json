@@ -386,16 +386,15 @@
     "turnover": 1104024642159.0,
     "margin": 5497.81,
     "trust": -15.02,
-    "foreign": null,
-    "txf_net": -86249
+    "foreign": null
   },
   {
     "date": "20260814",
     "close": 45811.01,
     "change": -210.47,
     "turnover": 1109746702006.0,
+    "margin": 5470.59,
     "trust": 79.73,
-    "foreign": null,
-    "txf_net": -85179
+    "foreign": null
   }
 ]
