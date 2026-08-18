@@ -25,6 +25,8 @@
     "change": 211.66,
     "turnover": 1368076901597.0,
     "margin": 6110.01,
+    "trust": 174.17,
+    "foreign": null,
     "txf_net": -81051
   },
   {
@@ -33,6 +35,8 @@
     "change": -1683.5,
     "turnover": 1672832488417.0,
     "margin": 5909.26,
+    "trust": 101.03,
+    "foreign": null,
     "txf_net": -76391
   },
   {
@@ -61,6 +65,8 @@
     "change": 893.08,
     "turnover": 1367817795171.0,
     "margin": 6095.02,
+    "trust": 156.03,
+    "foreign": null,
     "txf_net": -84168
   },
   {
@@ -388,7 +394,8 @@
     "close": 45308.68,
     "change": -548.59,
     "turnover": 1007881760816.0,
-    "trust": 56.63,
+    "margin": 5470.11,
+    "trust": 38.27,
     "foreign": null,
     "txf_net": -83078
   }
