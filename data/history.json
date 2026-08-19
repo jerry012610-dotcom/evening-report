@@ -394,7 +394,8 @@
     "close": 44719.35,
     "change": -589.33,
     "turnover": 890269743542.0,
-    "trust": -120.91,
+    "margin": 5481.9,
+    "trust": -166.01,
     "foreign": null,
     "txf_net": -81501
   }
