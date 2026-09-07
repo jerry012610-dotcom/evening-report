@@ -1,15 +1,5 @@
 [
   {
-    "date": "20260713",
-    "close": 45380.52,
-    "change": 25.91,
-    "turnover": 1067662107060.0,
-    "margin": 6182.99,
-    "trust": 125.79,
-    "foreign": null,
-    "txf_net": -81066
-  },
-  {
     "date": "20260714",
     "close": 44737.95,
     "change": -642.57,
@@ -316,8 +306,7 @@
     "turnover": 724258445490.0,
     "margin": 5469.38,
     "trust": -39.84,
-    "foreign": null,
-    "txf_net": -85380
+    "foreign": null
   },
   {
     "date": "20260826",
@@ -326,8 +315,7 @@
     "turnover": 843092483357.0,
     "margin": 5548.03,
     "trust": 33.66,
-    "foreign": null,
-    "txf_net": -83654
+    "foreign": null
   },
   {
     "date": "20260827",
@@ -336,8 +324,7 @@
     "turnover": 967466055186.0,
     "margin": 5599.19,
     "trust": -14.5,
-    "foreign": null,
-    "txf_net": -84836
+    "foreign": null
   },
   {
     "date": "20260828",
@@ -346,8 +333,7 @@
     "turnover": 1068985392591.0,
     "margin": 5671.78,
     "trust": -1.97,
-    "foreign": null,
-    "txf_net": -83655
+    "foreign": null
   },
   {
     "date": "20260831",
@@ -356,8 +342,7 @@
     "turnover": 1289228143090.0,
     "margin": 5698.77,
     "trust": -40.0,
-    "foreign": null,
-    "txf_net": -82970
+    "foreign": null
   },
   {
     "date": "20260901",
@@ -366,8 +351,7 @@
     "turnover": 1187571567117.0,
     "margin": 5781.15,
     "trust": 136.0,
-    "foreign": null,
-    "txf_net": -78706
+    "foreign": null
   },
   {
     "date": "20260902",
@@ -376,8 +360,7 @@
     "turnover": 976499979054.0,
     "margin": 5856.75,
     "trust": -35.28,
-    "foreign": null,
-    "txf_net": -85329
+    "foreign": null
   },
   {
     "date": "20260903",
@@ -386,16 +369,24 @@
     "turnover": 993261606190.0,
     "margin": 5787.39,
     "trust": 6.94,
-    "foreign": null,
-    "txf_net": -81575
+    "foreign": null
   },
   {
     "date": "20260904",
     "close": 46551.13,
     "change": 693.47,
     "turnover": 858244966564.0,
-    "trust": 2.89,
-    "foreign": null,
-    "txf_net": -82389
+    "margin": 5818.95,
+    "trust": -9.11,
+    "foreign": null
+  },
+  {
+    "date": "20260907",
+    "close": 47326.27,
+    "change": 775.14,
+    "turnover": 997944843239.0,
+    "margin": 5882.72,
+    "trust": 87.24,
+    "foreign": null
   }
 ]
