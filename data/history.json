@@ -1,15 +1,5 @@
 [
   {
-    "date": "20260724",
-    "close": 43654.84,
-    "change": -1195.97,
-    "turnover": 827129512226.0,
-    "margin": 5770.6,
-    "trust": 47.63,
-    "foreign": null,
-    "txf_net": -76260
-  },
-  {
     "date": "20260727",
     "close": 43634.19,
     "change": -20.65,
@@ -386,8 +376,7 @@
     "turnover": 675969528562.0,
     "margin": 5861.67,
     "trust": 106.46,
-    "foreign": null,
-    "txf_net": -76351
+    "foreign": null
   },
   {
     "date": "20260917",
@@ -396,7 +385,15 @@
     "turnover": 866619179411.0,
     "margin": 5893.97,
     "trust": 117.03,
-    "foreign": null,
-    "txf_net": -78674
+    "foreign": null
+  },
+  {
+    "date": "20260918",
+    "close": 47180.75,
+    "change": 892.75,
+    "turnover": 1142321910407.0,
+    "margin": 5940.39,
+    "trust": 81.53,
+    "foreign": null
   }
 ]
