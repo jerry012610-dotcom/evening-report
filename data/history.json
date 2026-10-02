@@ -1,15 +1,5 @@
 [
   {
-    "date": "20260805",
-    "close": 44611.6,
-    "change": 1250.94,
-    "turnover": 1200212510521.0,
-    "margin": 5234.92,
-    "trust": 112.66,
-    "foreign": null,
-    "txf_net": -87199
-  },
-  {
     "date": "20260806",
     "close": 44396.7,
     "change": -214.9,
@@ -316,8 +306,7 @@
     "turnover": 866619179411.0,
     "margin": 5893.97,
     "trust": 117.03,
-    "foreign": null,
-    "txf_net": -78674
+    "foreign": null
   },
   {
     "date": "20260918",
@@ -326,8 +315,7 @@
     "turnover": 1142321910407.0,
     "margin": 5940.39,
     "trust": 81.53,
-    "foreign": null,
-    "txf_net": -76110
+    "foreign": null
   },
   {
     "date": "20260921",
@@ -336,8 +324,7 @@
     "turnover": 866817533778.0,
     "margin": 6030.38,
     "trust": 45.96,
-    "foreign": null,
-    "txf_net": -74081
+    "foreign": null
   },
   {
     "date": "20260922",
@@ -346,8 +333,7 @@
     "turnover": 1078776313348.0,
     "margin": 6048.61,
     "trust": -3.66,
-    "foreign": null,
-    "txf_net": -75568
+    "foreign": null
   },
   {
     "date": "20260923",
@@ -356,8 +342,7 @@
     "turnover": 894650683140.0,
     "margin": 6063.68,
     "trust": -47.59,
-    "foreign": null,
-    "txf_net": -76084
+    "foreign": null
   },
   {
     "date": "20260924",
@@ -366,8 +351,7 @@
     "turnover": 775591428171.0,
     "margin": 6151.03,
     "trust": -128.23,
-    "foreign": null,
-    "txf_net": -77031
+    "foreign": null
   },
   {
     "date": "20260929",
@@ -376,8 +360,7 @@
     "turnover": 836144707733.0,
     "margin": 6186.53,
     "trust": 5.79,
-    "foreign": null,
-    "txf_net": -79029
+    "foreign": null
   },
   {
     "date": "20260930",
@@ -386,8 +369,7 @@
     "turnover": 921492702613.0,
     "margin": 6222.52,
     "trust": 82.91,
-    "foreign": null,
-    "txf_net": -78151
+    "foreign": null
   },
   {
     "date": "20261001",
@@ -396,7 +378,15 @@
     "turnover": 874046252416.0,
     "margin": 6298.67,
     "trust": 58.65,
-    "foreign": null,
-    "txf_net": -79554
+    "foreign": null
+  },
+  {
+    "date": "20261002",
+    "close": 48475.74,
+    "change": 122.25,
+    "turnover": 938222196327.0,
+    "margin": 6351.04,
+    "trust": 57.69,
+    "foreign": null
   }
 ]
