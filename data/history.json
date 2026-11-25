@@ -1,15 +1,5 @@
 [
   {
-    "date": "20260923",
-    "close": 48157.29,
-    "change": 357.12,
-    "turnover": 894650683140.0,
-    "margin": 6063.68,
-    "trust": -47.59,
-    "foreign": null,
-    "txf_net": -76084
-  },
-  {
     "date": "20260924",
     "close": 48024.6,
     "change": -132.69,
@@ -398,5 +388,15 @@
     "trust": 97.63,
     "foreign": null,
     "txf_net": -103182
+  },
+  {
+    "date": "20261125",
+    "close": 38195.43,
+    "change": -1926.92,
+    "turnover": 1229761968894.0,
+    "margin": 4341.38,
+    "trust": 550.35,
+    "foreign": null,
+    "txf_net": -105709
   }
 ]
