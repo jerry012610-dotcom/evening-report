@@ -356,7 +356,8 @@
     "turnover": 935310420150.0,
     "margin": 4352.27,
     "trust": -73.47,
-    "foreign": null
+    "foreign": null,
+    "txf_net": -97863
   },
   {
     "date": "20261123",
@@ -365,7 +366,8 @@
     "turnover": 1113743193221.0,
     "margin": 4338.08,
     "trust": -41.55,
-    "foreign": null
+    "foreign": null,
+    "txf_net": -103432
   },
   {
     "date": "20261124",
@@ -374,7 +376,8 @@
     "turnover": 432559877529.0,
     "margin": 4535.05,
     "trust": 97.63,
-    "foreign": null
+    "foreign": null,
+    "txf_net": -103182
   },
   {
     "date": "20261125",
@@ -383,7 +386,8 @@
     "turnover": 1229761968894.0,
     "margin": 4341.38,
     "trust": 550.35,
-    "foreign": null
+    "foreign": null,
+    "txf_net": -105709
   },
   {
     "date": "20261126",
@@ -392,6 +396,7 @@
     "turnover": 845336632675.0,
     "margin": 4344.84,
     "trust": 212.13,
-    "foreign": null
+    "foreign": null,
+    "txf_net": -106275
   }
 ]
